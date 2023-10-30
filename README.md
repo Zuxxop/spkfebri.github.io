@@ -1,1 +1,2 @@
-# spkfebri.github.io
+# Sistem Pendukung Keputusan
+Sistem Pendukung Keputusan
